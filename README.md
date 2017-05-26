@@ -23,4 +23,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![http://media.cargocollective.com/1/23/751720/headerimg/BIGT-HINK-I_NG.png](src)
+[Link](url) and ![http://media.cargocollective.com/1/23/751720/headerimg/BIGT-HINK-I_NG.png](http://media.cargocollective.com/1/23/751720/headerimg/BIGT-HINK-I_NG.png)
