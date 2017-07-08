@@ -1,6 +1,5 @@
 ![BIG THINK*ING](http://media.cargocollective.com/1/23/751720/headerimg/BIGT-HINK-I_NG.png)
 
-```html
 <div class="center">
                     <div class="headline">FEATURED WORK</div>
                     <hr>
@@ -19,4 +18,4 @@
 <div class="subheadline">Tic tac toe</div>
 <p data-height="500" data-theme-id="dark" data-slug-hash="pRBJYO" data-default-tab="result" data-user="toebeeblack" data-embed-version="2" data-pen-title="Tic tac toe" class="codepen">See the Pen <a href="http://codepen.io/toebeeblack/pen/pRBJYO/">Tic tac toe</a> by tobi ogunleye (<a href="http://codepen.io/toebeeblack">@toebeeblack</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 </div>
-```
+
